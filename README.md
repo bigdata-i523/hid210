@@ -5,18 +5,16 @@ Remove all sections that you have not yet created a directory in github with so 
 Owner
 
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 210
+    name: Hotz, Nicholas
+    url: https://github.com/bigdata-i523/sample-hid210
 Paper 1
 
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Hotz, Nicholas
    hid:
-   - 000
-   - 001
+   - 210
    title: This is my paper about xyz
    abstract: This paper showcases tis and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
@@ -25,9 +23,9 @@ Paper 2
 
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Hotz, Nicholas
    hid:
-   - 000
+   - 210
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
