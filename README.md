@@ -7,9 +7,9 @@
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 210
+    name: Hotz, Nicholas
+    url: https://github.com/bigdata-i523/sample-hid210
 ```
 
 # Paper 1
@@ -17,11 +17,9 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Hotz, Nicholas
    hid:
-   - 000
-   - 001
+   - 210
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
@@ -35,9 +33,9 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Hotz, Nicholas
    hid:
-   - 000
+   - 210
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
@@ -52,12 +50,10 @@ Just use one type and delete the line with
 
 ```
 paper2:
-   type: project
-   type: report
    author: 
-   - Gregor von Laszewski
+   - Hotz, Nicholas
    hid:
-   - 000
+   - 210
    title: Benchmarking a BigData Docker deployment
    abstract: This paper showcases tis and that and the other 
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
