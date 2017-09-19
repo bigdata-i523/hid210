@@ -9,7 +9,7 @@
 owner:
     hid: 210
     name: Hotz, Nicholas
-    url: https://github.com/bigdata-i523/sample-hid210
+    url: https://github.com/bigdata-i523/hid210
 ```
 
 # Paper 1
@@ -22,7 +22,7 @@ paper1:
    - 210
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
    type: latex
    
    status: in progress
@@ -38,14 +38,14 @@ paper2:
    - 210
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/sample-hid210/paper2/paper2.pdf
    type: word
    status: in progress
 ```
 
 # Project 
 
-We will assign new pids for you when we approve the project and reports   
+We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with 
 
 ```
