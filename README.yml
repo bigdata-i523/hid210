@@ -7,6 +7,7 @@ paper1:
        - Hotz, Nicholas
    hid:
        - 210
+       
    title: Natual Language Processing of Electronic Health Records
    abstract: >
        The volume of information in Electronic Health Records is
@@ -16,5 +17,5 @@ paper1:
        Electronic Health Records. 
    url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
    type: latex
-   status: in progress
+   status: 100% Oct 25 2017
    chapter: Health
