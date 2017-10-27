@@ -11,12 +11,8 @@ paper1:
    
    title: Natual Language Processing of Electronic Health Records
    abstract: >
-       The volume of information in Electronic Health Records is
-       increasingly rapidly and is largely stored in text format. This
-       paper studies the potential benefits, challenges, and current
-       accuracy of information extration alrogithms used to process
-       Electronic Health Records.
+       Electronic medical records (EMRs) play an increasingly important role in healthcare. However, the rapidly growing volume of text in EMRs creates challenges for information extraction (IE). As such, many research institutions are developing computer-based systems to automate EMR structured IE. This paper investigates the processes, the challenges, and the current state of automated IE of EMRs with a specific focus on automated systems that extract ICD9 codes from clinical text. While automated system performance has caught up to the accuracy of manual coding under specific circumstances, automated code extraction remains mostly an academic exercise. To extract value from their work, researchers should shift their focus away from highly specialized algorithms that work in isolation and instead collaborate with industry to develop augmented intelligence systems that help make coding professionals more effective.
    url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
    type: latex
-   status: 100% Oct 26 2017
+   status: 100% Oct 27 2017
    chapter: Health
