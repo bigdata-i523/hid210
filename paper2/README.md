@@ -1,0 +1,15 @@
+paper2:
+   author: Kumar, Saurabh; Schwartzer, Matthew; Hotz, Nicholas 
+   hid: 212, 225, 210 
+   title: Can Blockchain mitigate the Opioid Crisis through more secure Drug Distribution?
+   abstract: >
+        Like the internet in the 1980s and early 1990s, blockchain is a grossly misunderstood technology
+        that has the capability of transforming a wide variety of industries. These industries extend 
+        beyond just financial transactions and cryptocurrencies and includes healthcare and supply chain.
+        This paper reviews the history and current status of blockchain and investigates use cases for 
+        how blockchain can transform healthcare and supply chain.  
+      
+   url: 
+   type: latex
+   status: 100% for initial draft submission
+   chapter: Technology
