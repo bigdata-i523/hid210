@@ -4,70 +4,82 @@ owner:
     name: Hotz, Nicholas
     url: https://github.com/bigdata-i523/hid210
 paper1:
-   author: 
-       - Hotz, Nicholas
-   hid:
-       - 210
-   
-   title: Natual Language Processing of Electronic Health Records
-   abstract: >
-       Electronic medical records (EMRs) play an increasingly
-       important role in healthcare. However, the rapidly growing
-       volume of text in EMRs creates challenges for information
-       extraction (IE). As such, many research institutions are
-       developing computer-based systems to automate EMR structured
-       IE. This paper investigates the processes, the challenges, and
-       the current state of automated IE of EMRs with a specific focus
-       on automated systems that extract ICD9 codes from clinical
-       text. While automated system performance has caught up to the
-       accuracy of manual coding under specific circumstances,
-       automated code extraction remains mostly an academic
-       exercise. To extract value from their work, researchers should
-       shift their focus away from highly specialized algorithms that
-       work in isolation and instead collaborate with industry to
-       develop augmented intelligence systems that help make coding
-       professionals more effective.
-   url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
-   type: latex
-   status: 100% Oct 27 2017
-   chapter: Health
-   
-  paper2:
+    author:
+        - Hotz, Nicholas
+    hid:
+        - 210
+    title: Natual Language Processing of Electronic Health Records
+    abstract: >
+        Electronic medical records (EMRs) play an increasingly
+        important role in healthcare. However, the rapidly growing
+        volume of text in EMRs creates challenges for information
+        extraction (IE). As such, many research institutions are
+        developing computer-based systems to automate EMR structured
+        IE. This paper investigates the processes, the challenges, and
+        the current state of automated IE of EMRs with a specific focus
+        on automated systems that extract ICD9 codes from clinical
+        text. While automated system performance has caught up to the
+        accuracy of manual coding under specific circumstances,
+        automated code extraction remains mostly an academic
+        exercise. To extract value from their work, researchers should
+        shift their focus away from highly specialized algorithms that
+        work in isolation and instead collaborate with industry to
+        develop augmented intelligence systems that help make coding
+        professionals more effective.
+    url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
+    type: latex
+    status: 100% Oct 27 2017
+    chapter: Health
+paper2:
     review: Nov 6 2017
     abstract: >
-        Like the internet in the 1980s and early 1990s, blockchain is a grossly misunderstood technology
-        that has the capability of transforming a wide variety of industries. These industries extend 
-        beyond just financial transactions and cryptocurrencies and includes healthcare and supply chain.
-        This paper reviews the history and current status of blockchain and investigates use cases for 
-        how blockchain can transform healthcare and supply chain. 
+        Like the internet in the 1980s and early 1990s, blockchain is
+        a grossly misunderstood technology that has the capability of
+        transforming a wide variety of industries. These industries
+        extend beyond just financial transactions and cryptocurrencies
+        and includes healthcare and supply chain.  This paper reviews
+        the history and current status of blockchain and investigates
+        use cases for how blockchain can transform healthcare and
+        supply chain.
     author:
         - Kumar, Saurabh; Schwartzer, Matthew; Hotz, Nicholas
     chapter: Business
     hid:
         - 212, 225, 210
     status: Nov 26 17 100%
-    title: Can Blockchain Adoption Mitigate the Opioid Crisis Through More Secure Drug Distribution?
+    title: >
+        Can Blockchain Adoption Mitigate the Opioid Crisis
+        Through More Secure Drug Distribution?
     type: latex
     url: https://github.com/bigdata-i523/hid212/paper2/report.pdf
 project:
     review: Dec 4 2017
     abstract: >
-        Like TCP/IP in the 1970s and 1980s, blockchain is a new, intriguing but grossly misunderstood technology 
-        that is still in its infancy. It is commonly misunderstood as just a technology for Bitcoin and cryptocurrencies.
-        However, blockchain's use cases extend beyond just financial transactions and cryptocurrencies, and have the potential
-        to transform nearly every industry including healthcare and supply chain. As the technology matures, additional
-        transformative use cases could expand into drug distribution and specifically to opioid supply chains. Despite this potential,
-        a publicly-available blockchain specifically for opioid supply chains was not found. The collective review and analysis of
-        blockchain, pharmaceutical supply chains, the opioid crisis, and the demonstrated blockchain model suggest that the adoption
-        of blockchain systems for prescription opioid supply chains would enable numerous capabilities that could mitigate certain 
-        aspects of the opioid crisis. 
+        Like TCP/IP in the 1970s and 1980s, blockchain is a new,
+        intriguing but grossly misunderstood technology that is still
+        in its infancy. It is commonly misunderstood as just a
+        technology for Bitcoin and cryptocurrencies.  However,
+        blockchain's use cases extend beyond just financial
+        transactions and cryptocurrencies, and have the potential to
+        transform nearly every industry including healthcare and
+        supply chain. As the technology matures, additional
+        transformative use cases could expand into drug distribution
+        and specifically to opioid supply chains. Despite this
+        potential, a publicly-available blockchain specifically for
+        opioid supply chains was not found. The collective review and
+        analysis of blockchain, pharmaceutical supply chains, the
+        opioid crisis, and the demonstrated blockchain model suggest
+        that the adoption of blockchain systems for prescription
+        opioid supply chains would enable numerous capabilities that
+        could mitigate certain aspects of the opioid crisis.
     author:
         - Kumar, Saurabh; Schwartzer, Matthew; Hotz, Nicholas
     hid:
         - 212, 225, 210
-    title: Can Blockchain Adoption Mitigate the Opioid Crisis Through More Secure Drug Distribution?
-    
+    title: >
+        Can Blockchain Adoption Mitigate the Opioid Crisis Through
+        More Secure Drug Distribution?
     url: https://github.com/bigdata-i523/hid212/project/report.tex
     type: project
     status: Dec 04 17 0%
-chapter: Business
+    chapter: Business
