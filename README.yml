@@ -45,7 +45,9 @@ paper2:
         - Kumar, Saurabh; Schwartzer, Matthew; Hotz, Nicholas
     chapter: Business
     hid:
-        - 212, 225, 210
+        - 212
+        - 225
+        - 210
     status: Nov 26 17 100%
     title: >
         Can Blockchain Adoption Mitigate the Opioid Crisis
@@ -54,6 +56,7 @@ paper2:
     url: https://github.com/bigdata-i523/hid212/paper2/report.pdf
     duplicate: True
 project:
+    duplicate: True
     review: Dec 4 2017
     abstract: >
         Like TCP/IP in the 1970s and 1980s, blockchain is a new,
@@ -74,9 +77,13 @@ project:
         opioid supply chains would enable numerous capabilities that
         could mitigate certain aspects of the opioid crisis.
     author:
-        - Kumar, Saurabh; Schwartzer, Matthew; Hotz, Nicholas
+        - Kumar, Saurabh
+        - Schwartzer, Matthew
+        - Hotz, Nicholas
     hid:
-        - 212, 225, 210
+        - 212
+        - 225
+        - 210
     title: >
         Can Blockchain Adoption Mitigate the Opioid Crisis Through
         More Secure Drug Distribution?
