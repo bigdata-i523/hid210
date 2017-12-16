@@ -27,7 +27,6 @@ paper1:
         develop augmented intelligence systems that help make coding
         professionals more effective.
     url: https://github.com/bigdata-i523/sample-hid210/paper1/paper1.pdf
-    type: latex
     status: 100% Oct 27 2017
     chapter: Health
 paper2:
@@ -52,7 +51,6 @@ paper2:
     title: >
         Can Blockchain Adoption Mitigate the Opioid Crisis
         Through More Secure Drug Distribution?
-    type: latex
     url: https://github.com/bigdata-i523/hid212/paper2/report.pdf
     duplicate: True
 project:
